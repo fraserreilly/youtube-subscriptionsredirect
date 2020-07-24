@@ -2,6 +2,7 @@
 // @name         Youtube Subscriptions Redirect
 // @namespace    https://github.com/spacegIider
 // @version      1.0
+// @license      MIT
 // @description  Shows all subscribed videos in subscription feed.
 // @author       Spaceglider
 // @match        *://www.youtube.com/feed/subscriptions
