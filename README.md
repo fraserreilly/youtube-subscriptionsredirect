@@ -5,7 +5,7 @@ Userscript that redirects youtubes subscription url to display all subscriptions
 
 [Install Youtube Subscriptions Redirect](https://raw.githubusercontent.com/spacegIider/Youtube-Subscriptions-Redirect/master/redirect.js)
 
-*Tampermonkey or violentmoney is required*
+*Tampermonkey is required.*
 
 **License**
 
