@@ -9,4 +9,4 @@ Userscript that redirects youtubes subscription url to display all subscriptions
 
 **License**
 
-MIT
+GNU
