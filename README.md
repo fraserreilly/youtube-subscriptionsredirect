@@ -1,4 +1,4 @@
-# Youtube-Subscriptions-Redirect
+# youtube-subscriptionsredirect
 Userscript that redirects youtubes subscription url to display all subscriptions from channel.
 
 ## Getting Started
