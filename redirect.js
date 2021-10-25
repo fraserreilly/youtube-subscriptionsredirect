@@ -13,7 +13,7 @@
 // @updateURL    https://raw.githubusercontent.com/fraserreilly/youtube-subscriptionsredirect/redirect.js
 // ==/UserScript==
 
-var bYoutubeURL = window.location.pathname;
+var badYoutubeURL = window.location.pathname;
 
 if ( ! /\?flow=1$/.test (badYoutubeURL) ) {
     var DisplayAllVideosURL = window.location.protocol + "//"
