@@ -7,10 +7,10 @@
 // @author       fraserreilly
 // @match        *://www.youtube.com/feed/subscriptions
 // @grant        none
-// @homepageURL  https://github.com/fraserreilly/Youtube-Subscriptions-Redirect
-// @supportURL   https://github.com/fraserreilly/Youtube-Subscriptions-Redirect/issues
-// @downloadURL  https://raw.githubusercontent.com/fraserreilly/Youtube-Subscriptions-Redirect/redirect.js
-// @updateURL    https://raw.githubusercontent.com/fraserreilly/Youtube-Subscriptions-Redirect/redirect.js
+// @homepageURL  https://github.com/fraserreilly/youtube-subscriptionsredirect
+// @supportURL   https://github.com/fraserreilly/youtube-subscriptionsredirect/issues
+// @downloadURL  https://raw.githubusercontent.com/fraserreilly/youtube-subscriptionsredirect/redirect.js
+// @updateURL    https://raw.githubusercontent.com/fraserreilly/youtube-subscriptionsredirect/redirect.js
 // ==/UserScript==
 
 var bYoutubeURL = window.location.pathname;
