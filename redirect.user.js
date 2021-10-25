@@ -9,8 +9,8 @@
 // @grant        none
 // @homepageURL  https://github.com/fraserreilly/youtube-subscriptionsredirect
 // @supportURL   https://github.com/fraserreilly/youtube-subscriptionsredirect/issues
-// @downloadURL  https://raw.githubusercontent.com/fraserreilly/youtube-subscriptionsredirect/redirect.js
-// @updateURL    https://raw.githubusercontent.com/fraserreilly/youtube-subscriptionsredirect/redirect.js
+// @downloadURL  https://raw.githubusercontent.com/fraserreilly/youtube-subscriptionsredirect/redirect.user.js
+// @updateURL    https://raw.githubusercontent.com/fraserreilly/youtube-subscriptionsredirect/redirect.user.js
 // ==/UserScript==
 
 var badYoutubeURL = window.location.pathname;
