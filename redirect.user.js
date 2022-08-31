@@ -2,7 +2,7 @@
 // @name         Youtube Subscriptions Redirect
 // @namespace    https://github.com/fraserreilly
 // @version      1.0
-// @license      MIT
+// @license      GNU 3.0
 // @description  Shows all subscribed videos in subscription feed.
 // @author       fraserreilly
 // @match        *://www.youtube.com/feed/subscriptions
